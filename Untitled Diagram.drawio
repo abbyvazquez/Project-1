@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T04:46:13.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="yu8SA7A83oMpqeDkBP7P" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T04:50:48.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="imAua7-4osgCb21IEYk7" version="13.8.2" type="github">
   <diagram id="P_IlKrpKy8XU2x5JV2zW" name="Page-1">
     <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="80" y="130" width="158.73" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mg66CrbLclxoDYNZEBj5-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_load_balancer;" vertex="1" parent="1">
-          <mxGeometry x="280" y="85" width="135" height="35" as="geometry" />
+          <mxGeometry x="280" y="106.15" width="135" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mg66CrbLclxoDYNZEBj5-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-network-round-gloss-shine/128/docker-icon_copy.png;fontColor=#0F17FF;" vertex="1" parent="1">
           <mxGeometry x="910" y="160" width="128" height="128" as="geometry" />
@@ -61,8 +61,8 @@
         <mxCell id="mg66CrbLclxoDYNZEBj5-35" value="Host" style="whiteSpace=wrap;html=1;fontColor=#0F17FF;" vertex="1" parent="1">
           <mxGeometry x="105" y="487.38" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mg66CrbLclxoDYNZEBj5-36" value="Load Balancer&amp;nbsp;" style="whiteSpace=wrap;html=1;fontColor=#0F17FF;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="56.37" width="120" height="25" as="geometry" />
+        <mxCell id="mg66CrbLclxoDYNZEBj5-36" value="Load Balancer&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 69 , 120) ; font-family: &amp;#34;az_ea_font&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;az_font&amp;#34; , , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;open sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;IP-52.150.16.204&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#0F17FF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mg66CrbLclxoDYNZEBj5-37" value="Internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#0F17FF;" vertex="1" parent="1">
           <mxGeometry x="125" y="90" width="60" height="20" as="geometry" />
